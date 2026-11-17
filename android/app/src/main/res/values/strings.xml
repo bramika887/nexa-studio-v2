@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">NEXA STUDIO</string>
+    <string name="title_activity_main">NEXA STUDIO</string>
+    <string name="package_name">com.bramika.nexastudio</string>
+    <string name="custom_url_scheme">com.bramika.nexastudio</string>
+</resources>
